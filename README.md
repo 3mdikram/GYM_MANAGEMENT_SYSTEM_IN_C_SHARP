@@ -7,5 +7,3 @@ The user can also add new staff records by providing name, contact details, join
 
 Design of the project is very simple so that the user won’t find any difficulties while working on it. This project uses an external file as a database. Gym Management System project helps in the management of gym details. To run this project you must have installed Visual Studio IDE on your PC
  
- 
- ![Gym-Management-System-in-c](https://user-images.githubusercontent.com/54524364/114941935-6a74fc00-9e61-11eb-9048-a90a9b5fce85.png)
